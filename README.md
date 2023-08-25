@@ -1,7 +1,9 @@
+👨‍🏫 Web Scraping and Data Extraction !
+
 Clone this repo then run xampp .
 
-## Run command at root directory
-php artisan serve
+Run command at root directory : 
+## php artisan serve
 
 The Laravel PHP script that performs the scraping : ScraperController.php 
 
